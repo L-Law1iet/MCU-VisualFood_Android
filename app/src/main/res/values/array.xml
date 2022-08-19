@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="activity">
+        //依據國民健康署網站：各類運動消耗熱量表運動30分鐘消耗的熱量(大卡)(部分資料)
+        <item>慢走</item>
+        <item>快走</item>
+        <item>慢跑</item>
+        <item>快跑</item>
+        <item>腳踏車</item>
+        <item>籃球</item>
+        <item>棒壘球</item>
+        <item>乒乓球</item>
+        <item>羽毛球</item>
+        <item>網球</item>
+        <item>游泳</item>
+        <item>排球</item>
+    </array>
+
+    <array name="time">
+        <item>10分鐘</item>
+        <item>20分鐘</item>
+        <item>30分鐘</item>
+        <item>40分鐘</item>
+        <item>50分鐘</item>
+        <item>1小時</item>
+        <item>2小時</item>
+        <item>3小時</item>
+    </array>
+
+    <array name="EatTime">
+        <item>早餐</item>
+        <item>午餐</item>
+        <item>晚餐</item>
+        <item>其他</item>
+    </array>
+
+</resources>

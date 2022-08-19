@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+        <item
+                android:id="@+id/HomePage"
+                android:icon="@drawable/ic_home_black_24dp"
+                android:title="主選單"
+        />
+        <item
+                android:id="@+id/FoodPage"
+                android:title="食物"
+                android:icon="@drawable/ic_local_dining_black_24dp"
+        />
+        <item
+                android:id="@+id/FoodSafetyPage"
+                android:title="食安資訊"
+                android:icon="@drawable/ic_assignment_black_24dp"/>
+        <item
+                android:id="@+id/AccountPage"
+                android:title="帳號資訊"
+                android:icon="@drawable/ic_dashboard_black_24dp"/>
+
+</menu>

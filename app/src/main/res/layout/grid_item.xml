@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                                                   android:layout_width="match_parent"
+                                                   android:layout_height="match_parent">
+    <TextView
+            android:id="@+id/text1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="15px"
+            android:paddingBottom="15px"
+            android:text="123"
+            android:textSize="14pt"></TextView>
+
+    <TextView
+            android:id="@+id/text2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:paddingTop="15px"
+            android:paddingBottom="15px"
+            android:text="123"
+            android:textSize="14pt"></TextView>
+</androidx.constraintlayout.widget.ConstraintLayout>
